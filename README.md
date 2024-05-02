@@ -1,17 +1,18 @@
 ### Hi, I'm Alma Alamsyah 👋🏾 👩🏾‍💻
 
-<!--
-**almaalamsyah/almaalamsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img align="center" src="https://github.com/RozhakXD/RozhakXD/assets/65714340/fac13e2e-c761-4d3c-a770-cb9eb47ddc0d">
+</div>
 
-Here are some ideas to get you started:
-https://private-user-images.githubusercontent.com/65714340/323189141-fac13e2e-c761-4d3c-a770-cb9eb47ddc0d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ2NTQyOTgsIm5iZiI6MTcxNDY1Mzk5OCwicGF0aCI6Ii82NTcxNDM0MC8zMjMxODkxNDEtZmFjMTNlMmUtYzc2MS00ZDNjLWE3NzAtY2I5ZWI0N2RkYzBkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAyVDEyNDYzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmMzY2NDNlNTM1NmI3YTg0ZDBkNmEzNjQ5NDFiNWE4NDUxNmU5MmM5YTEyMThmNGEzODZjOGViNjE4N2ZmNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CxXI9rDR3wANH2G9C0yVz_d9tvExRuyKWAwdDFokumg
+## Introduction
+I'm a software developer with a focus on the Python programming language. Here, you'll find a collection of projects, contributions, and experiences showcasing my work in building solutions with Python.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+## Connect with Me
+
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/a.lams_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://wa.me/6285221745116" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
+&nbsp; <a href="https://www.facebook.com/Lams131" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
+</p>
