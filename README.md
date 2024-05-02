@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi, I'm Alma Alamsyah 👋🏾 👩🏾‍💻
 
 <!--
 **almaalamsyah/almaalamsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://private-user-images.githubusercontent.com/65714340/323189141-fac13e2e-c761-4d3c-a770-cb9eb47ddc0d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ2NTQyOTgsIm5iZiI6MTcxNDY1Mzk5OCwicGF0aCI6Ii82NTcxNDM0MC8zMjMxODkxNDEtZmFjMTNlMmUtYzc2MS00ZDNjLWE3NzAtY2I5ZWI0N2RkYzBkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAyVDEyNDYzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmMzY2NDNlNTM1NmI3YTg0ZDBkNmEzNjQ5NDFiNWE4NDUxNmU5MmM5YTEyMThmNGEzODZjOGViNjE4N2ZmNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CxXI9rDR3wANH2G9C0yVz_d9tvExRuyKWAwdDFokumg
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
